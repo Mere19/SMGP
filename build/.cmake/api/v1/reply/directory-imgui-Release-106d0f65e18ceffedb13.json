@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "imgui",
+		"source" : "/Users/guangzhu/Desktop/ETHz/S2/Shape_Modelling/gp22-Mere19/libigl/external/libigl-imgui"
+	}
+}
