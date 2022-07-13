@@ -1,9 +1,5 @@
 # Assignment 6: Skinning & Skeletal Animation
 
-Name: 'Di Zhuang'
-
-Legi-Nr: '21958772'
-
 
 ## Required results
 Edit this 'README.md' file to report all your results. Use the ```/res``` folder to store your results.
